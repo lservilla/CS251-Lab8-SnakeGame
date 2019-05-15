@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="CS251-Lab8-SnakeGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS251_Lab8_SnakeGame_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CS251-Lab8-SnakeGame.jar">
+        <element id="module-output" name="CS251-Lab8-SnakeGame" />
+      </element>
+    </root>
+  </artifact>
+</component>
